@@ -1,3 +1,3 @@
 let  playlist = {
-  Romeo: "El malo";
+  Romeo: "El malo"
 }
